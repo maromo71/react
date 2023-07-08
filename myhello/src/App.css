@@ -1,0 +1,12 @@
+.App {
+  text-align: center;
+  padding: 20px;
+}
+
+h1 {
+  font-size: 3rem;
+  background-color: springgreen;
+  border-radius: 5ch;
+  padding: 15px;
+}
+
