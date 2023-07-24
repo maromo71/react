@@ -1,0 +1,28 @@
+.bg-pastel-nav {
+    background-color: #cccad4b0;
+}
+
+.bg-pastel-footer {
+    background-color: #cccad4b0;
+}
+.btn-logout {
+    position: absolute;
+    font-size: 15px;
+    font-weight: bold;
+    font-family: sans-serif;
+    color: #fff;
+    background-color: #be4c4c;
+    bottom: 15%;
+    right: 4%;
+    height: 60px;
+    width: 60px;
+    border-radius: 30px;
+    border: 0;
+    transition: all 0.5s;
+}
+
+.btn-logout:hover {
+    background-color: red;
+    color: #fff;
+}
+
